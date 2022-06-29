@@ -1,0 +1,7 @@
+---
+Language: Cpp
+BasedOnStyle: LLVM
+UseTab: Never
+TabWidth: 2
+IndentWidth: 2
+ColumnLimit: 120
